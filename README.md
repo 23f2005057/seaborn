@@ -13,3 +13,10 @@ This repository contains a Seaborn-based visualization analyzing the relationshi
 ## How to Generate the Chart
 
 1. Install Python packages:
+2. Run the script:
+3. The output file `chart.png` will be generated in the repository folder.
+
+## Business Context
+
+Treutel Inc developed this visualization for a major retail client analyzing the relationship between Customer Acquisition Cost and Customer Lifetime Value to optimize marketing spending.
+
